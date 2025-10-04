@@ -20,6 +20,7 @@ This project uses **hand tracking** with **Mediapipe** and **OpenCV** to control
 
 2.Run the code:
 
-python VolumeControl.py
+   python VolumeControl.py
+
 
 3.Move your thumb and index finger closer/farther to decrease/increase volume.
